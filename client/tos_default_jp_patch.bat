@@ -1,0 +1,1 @@
+export_patch.cmd "C:\Program Files (x86)\Steam\steamapps\common\Tree of Savior (Japanese Ver.)" jp
