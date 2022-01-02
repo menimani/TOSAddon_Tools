@@ -1,0 +1,2 @@
+ipf_unpack.exe %1 decrypt
+ipf_unpack.exe %1 extract ies xml lua dds xac png jpg tga imctree effect skn xsd xsm xsmtime wmove bin fx fxdb ttf export lma xpm fdp fev h txt lst mp3 pathengine atlas skel json 3deffect 3dprop 3drender 3dworld 3dzone pathengine tok colmesh

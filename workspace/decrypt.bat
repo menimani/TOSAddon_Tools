@@ -1,0 +1,1 @@
+ipf_unpack.exe %1 decrypt
